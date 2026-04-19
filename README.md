@@ -39,7 +39,7 @@
 
 ## 🏢 Experience
 
-* 🎯 Co-Founder & Assistant Director – Paridhi
+* 🎯 Co-Founder & Director – Paridhi
 * 💼 Finance Secretary – Islamic University Accounting Club
 * 🧑‍💻 Design & IT Secretary
 * ✍️ Content Writing Intern – Requin BD
