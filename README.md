@@ -91,9 +91,6 @@
   <img src="https://streak-stats.demolab.com?user=raselahmed2023&theme=tokyonight" alt="rasel streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raselahmed2023&show_icons=true&theme=tokyonight" alt="rasel stats" />
-</p>
 
 ---
 
