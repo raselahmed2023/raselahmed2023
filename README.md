@@ -36,7 +36,6 @@
 
 ---
 
-
 ## 🏢 Experience
 
 * 🎯 Co-Founder & Director – Paridhi
