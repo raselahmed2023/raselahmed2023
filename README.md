@@ -83,11 +83,10 @@
 </table>
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=raselahmed2023&theme=tokyonight" alt="rasel streak" />
+  <img src="https://streak-stats.demolab.com?user=raselahmed2023" alt="rasel streak" />
 </p>
 
 
