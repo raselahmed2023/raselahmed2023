@@ -19,7 +19,8 @@
 * HTML
 * CSS (Tailwind CSS)
 * JavaScript (ES6+)
-* React.js (Learning)
+* React.js
+* Next.js (Learning)
 
 ### 🛠️ Tools & Technologies
 
