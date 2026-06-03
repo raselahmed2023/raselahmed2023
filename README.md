@@ -86,7 +86,9 @@
 ---
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=raselahmed2023" />
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=raselahmed2023&theme=dark&hide_border=true" />
+</p>
 
 ---
 
