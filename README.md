@@ -1,8 +1,5 @@
-```md
 <h1 align="center">Hi 👋, I'm Rasel Ahmed</h1>
 <h3 align="center">Junior Frontend Developer | React.js | Next.js | MERN Stack</h3>
-
----
 
 ## 🚀 About Me
 
@@ -11,8 +8,6 @@
 * 🌱 Currently learning Backend Development, System Design & AI-Assisted Development
 * 🤖 Interested in AI-powered workflows, productivity tools, and digital solutions
 * 🎯 Goal: Become a skilled Full-Stack Developer and build impactful digital products
-
----
 
 ## 🧠 Skills
 
@@ -54,8 +49,6 @@
 * README Writing
 * Test Case Generation
 
----
-
 ## 🎯 Current Goals
 
 * 🚀 Become a Job-Ready Full Stack Developer
@@ -64,15 +57,11 @@
 * 🤖 Build AI-Powered Applications
 * 🌍 Contribute to Meaningful Open Source Projects
 
----
-
 ## 🏢 Leadership & Community Experience
 
 * 🎯 Design & IT Secretary – Islamic University Accounting Club
 * 📢 Assistant Communication Affairs Secretary – CAP
 * ✍️ Content Writing Intern – Requin BD
-
----
 
 ## 🌐 Connect with Me
 
@@ -82,13 +71,11 @@
 </a>
 </p>
 
-📫 Email: **raselahmediu22@gmail.com**
+📫 Email: **[raselahmediu22@gmail.com](mailto:raselahmediu22@gmail.com)**
 
 💼 LinkedIn: **https://www.linkedin.com/in/rasel-ahmed06/**
 
 🌐 Portfolio: **https://portfolio-lac-iota-96.vercel.app/**
-
----
 
 ## 🛠️ Languages & Tools
 
@@ -111,21 +98,16 @@
   </tr>
 </table>
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=raselahmed2023&theme=dark&hide_border=true" />
 </p>
 
----
-
 ## 📈 Activity Graph
 
-![Rasel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raselahmed2023&theme=tokyo-night)
+![Rasel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raselahmed2023\&theme=tokyo-night)
 
 ---
 
 ⭐ Always interested in learning new technologies, building impactful products, and collaborating on meaningful projects.
-```
