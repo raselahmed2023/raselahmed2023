@@ -66,37 +66,28 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/rasel-ahmed06/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rasel-ahmed06" height="30" width="40" />
-</a>
+  <a href="mailto:raselahmediu22@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/rasel-ahmed06/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="40" height="40"/>
+  </a>
+
+  <a href="https://portfolio-lac-iota-96.vercel.app/" target="_blank">
+    <img src="https://img.icons8.com/color/48/domain.png" alt="portfolio" width="40" height="40"/>
+  </a>
 </p>
 
-📫 Email: **[raselahmediu22@gmail.com](mailto:raselahmediu22@gmail.com)**
-
-💼 LinkedIn: **https://www.linkedin.com/in/rasel-ahmed06/**
-
-🌐 Portfolio: **https://portfolio-lac-iota-96.vercel.app/**
+---
 
 ## 🛠️ Languages & Tools
 
-<table>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/></td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode&perline=12" />
+</p>
+
+
 
 ## 📊 GitHub Stats
 
