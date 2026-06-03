@@ -69,21 +69,25 @@
   <a href="mailto:raselahmediu22@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/rasel-ahmed06/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://portfolio-lac-iota-96.vercel.app/" target="_blank">
     <img src="https://img.icons8.com/color/48/domain.png" alt="portfolio" width="40" height="40"/>
   </a>
 </p>
+```
+
 
 ---
 
 ## 🛠️ Languages & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode&perline=12" />
 </p>
 
