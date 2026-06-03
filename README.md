@@ -65,7 +65,7 @@
 
 ## 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="mailto:raselahmediu22@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail" width="40" height="40"/>
   </a>
