@@ -68,10 +68,5 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=raselahmed2023&theme=dark&hide_border=true" />
 </p>
 
-## 📈 Activity Graph
-
-![Rasel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raselahmed2023\&theme=tokyo-night)
-
----
 
  Always interested in learning new technologies, building impactful products, and collaborating on meaningful projects.
