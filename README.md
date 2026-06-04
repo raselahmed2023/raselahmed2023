@@ -3,34 +3,34 @@
 
 ## 🚀 About Me
 
-* 🎓 MBA Student (Accounting & Information Systems) at Islamic University, Kushtia
-* 💻 Passionate about Frontend Development and Modern Web Technologies
-* 🌱 Currently learning Backend Development, System Design & AI-Assisted Development
-* 🤖 Interested in AI-powered workflows, productivity tools, and digital solutions
-* 🎯 Goal: Become a skilled Full-Stack Developer and build impactful digital products
+*  MBA Student (Accounting & Information Systems) at Islamic University, Kushtia
+*  Passionate about Frontend Development and Modern Web Technologies
+*  Currently learning Backend Development, System Design & AI-Assisted Development
+*  Interested in AI-powered workflows, productivity tools, and digital solutions
+*  Goal: Become a skilled Full-Stack Developer and build impactful digital products
 
 ## 🎯 Current Goals
 
-* 🚀 Become a Job-Ready Full Stack Developer
-* ⚡ Master React.js & Next.js Ecosystem
-* 📚 Learn Backend Architecture & System Design
-* 🤖 Build AI-Powered Applications
-* 🌍 Contribute to Meaningful Open Source Projects
+*  Become a Job-Ready Full Stack Developer
+*  Master React.js & Next.js Ecosystem
+*  Learn Backend Architecture & System Design
+*  Build AI-Powered Applications
+*  Contribute to Meaningful Open Source Projects
 
 ## 🚀 Featured Projects
 
 | Project | Description | Live | Tech |
 |----------|-------------|------|------|
-| 🏟️ SportNest | Full-stack sports facility booking platform with authentication, booking management, and owner dashboards. | [Live](https://sports-nest-gules.vercel.app) | Next.js, MongoDB, Express.js |
-| 📚 Online Book Borrowing Platform | Book discovery and borrowing platform with Better Auth and personalized dashboard. | [Live](https://online-book-borrowing-platform-mocha.vercel.app/) | Next.js, MongoDB, Better Auth |
-| 🤝 KeenKeeper | Friendship management application with smart dashboards and interactive timelines. | [Live](https://kin-keeper-seven-self.vercel.app/) | Next.js, Tailwind CSS |
-| 🚀 DigiTools | Digital tools marketplace with premium tools, pricing plans, and free trials. | [Live](https://digitools-react.netlify.app/) | React.js, Tailwind CSS |
+|  SportNest | Full-stack sports facility booking platform with authentication, booking management, and owner dashboards. | [Live](https://sports-nest-gules.vercel.app) | Next.js, MongoDB, Express.js |
+|  Online Book Borrowing Platform | Book discovery and borrowing platform with Better Auth and personalized dashboard. | [Live](https://online-book-borrowing-platform-mocha.vercel.app/) | Next.js, MongoDB, Better Auth |
+|  KeenKeeper | Friendship management application with smart dashboards and interactive timelines. | [Live](https://kin-keeper-seven-self.vercel.app/) | Next.js, Tailwind CSS |
+|  DigiTools | Digital tools marketplace with premium tools, pricing plans, and free trials. | [Live](https://digitools-react.netlify.app/) | React.js, Tailwind CSS |
 
 ## 🏢 Leadership & Community Experience
 
-* 🎯 Design & IT Secretary – Islamic University Accounting Club
-* 📢 Assistant Communication Affairs Secretary – CAP
-* ✍️ Content Writing Intern – Requin BD
+*  Design & IT Secretary – Islamic University Accounting Club
+*  Assistant Communication Affairs Secretary – CAP
+*  Content Writing Intern – Requin BD
 
 ## 🌐 Connect with Me
 
@@ -74,4 +74,4 @@
 
 ---
 
-⭐ Always interested in learning new technologies, building impactful products, and collaborating on meaningful projects.
+ Always interested in learning new technologies, building impactful products, and collaborating on meaningful projects.
