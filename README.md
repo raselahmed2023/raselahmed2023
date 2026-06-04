@@ -38,21 +38,18 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:raselahmediu22@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
   <a href="https://www.linkedin.com/in/rasel-ahmed06/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
+  &nbsp;&nbsp;
+  <a href="mailto:raselahmediu22@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://portfolio-lac-iota-96.vercel.app/" target="_blank">
-    <img src="https://img.icons8.com/color/48/domain.png" alt="portfolio" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-
 
 
 ---
