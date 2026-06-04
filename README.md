@@ -9,46 +9,6 @@
 * 🤖 Interested in AI-powered workflows, productivity tools, and digital solutions
 * 🎯 Goal: Become a skilled Full-Stack Developer and build impactful digital products
 
-## 🧠 Skills
-
-### 💻 Frontend Development
-
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* React.js
-* Next.js
-* Tailwind CSS
-* DaisyUI
-* HeroUI
-
-### ⚙️ Backend Development
-
-* Node.js
-* Express.js
-* MongoDB
-* JWT Authentication
-* REST APIs
-
-### 🛠️ Tools & Deployment
-
-* Git & GitHub
-* VS Code
-* Vercel
-* Netlify
-* Render
-
-### 🤖 AI Workflow
-
-* ChatGPT
-* Gemini
-* GitHub Copilot
-* Cursor
-* Prompt Engineering
-* AI-Assisted Debugging
-* README Writing
-* Test Case Generation
-
 ## 🎯 Current Goals
 
 * 🚀 Become a Job-Ready Full Stack Developer
