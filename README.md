@@ -24,7 +24,7 @@
 
 | Project | Description | Live | Tech |
 |----------|-------------|------|------|
-|  resellHub | ReSell Hub is a modern second-hand marketplace platform where users can buy and sell pre-owned products safely and efficiently. | [Live](https://resell-hub-rho.vercel.app) | Next.js, MongoDB, Express.js,Stipe,HeroUI,Express.js |
+|  resellHub | ReSell Hub is a modern second-hand marketplace platform where users can buy and sell pre-owned products safely and efficiently. | [Live](https://resell-hub-rho.vercel.app) | Next.js, MongoDB, Express.js, Stipe, HeroUI, Better Auth |
 |  SportNest | Full-stack sports facility booking platform with authentication, booking management, and owner dashboards. | [Live](https://sports-nest-gules.vercel.app) | Next.js, MongoDB, Express.js |
 |  Online Book Borrowing Platform | Book discovery and borrowing platform with Better Auth and personalized dashboard. | [Live](https://online-book-borrowing-platform-mocha.vercel.app/) | Next.js, MongoDB, Better Auth |
 |  cineTrack | A modern and responsive Movie Watchlist & Review application. | [Live]( https://cine-track-nine.vercel.app) | React.js, Vite, and Tailwind CSS |
