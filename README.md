@@ -25,7 +25,9 @@
 | Project | Description | Live | Tech |
 |----------|-------------|------|------|
 |  SportNest | Full-stack sports facility booking platform with authentication, booking management, and owner dashboards. | [Live](https://sports-nest-gules.vercel.app) | Next.js, MongoDB, Express.js |
+|  SportNest | Full-stack sports facility booking platform with authentication, booking management, and owner dashboards. | [Live](https://sports-nest-gules.vercel.app) | Next.js, MongoDB, Express.js |
 |  Online Book Borrowing Platform | Book discovery and borrowing platform with Better Auth and personalized dashboard. | [Live](https://online-book-borrowing-platform-mocha.vercel.app/) | Next.js, MongoDB, Better Auth |
+|  cineTrack | A modern and responsive Movie Watchlist & Review application. | [Live]( https://cine-track-nine.vercel.app) | React.js, Vite, and Tailwind CSS |
 |  KeenKeeper | Friendship management application with smart dashboards and interactive timelines. | [Live](https://kin-keeper-seven-self.vercel.app/) | Next.js, Tailwind CSS |
 |  DigiTools | Digital tools marketplace with premium tools, pricing plans, and free trials. | [Live](https://digitools-react.netlify.app/) | React.js, Tailwind CSS |
 
