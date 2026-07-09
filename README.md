@@ -1,41 +1,68 @@
 <p align="center">
+  <img src="./assets/banner.png" alt="Rasel Ahmed GitHub Banner" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Rasel+Ahmed" alt="Typing SVG" />
 </p>
 
-<h3 align="center">Junior Frontend Developer | React.js | Next.js | MERN Stack</h3>
+<h3 align="center">Junior Frontend Developer | React.js | Next.js | TypeScript | MERN Stack</h3>
+
+---
 
 ## 🚀 About Me
 
-*  MBA Student (Accounting & Information Systems) at Islamic University, Kushtia
-*  Passionate about Frontend Development and Modern Web Technologies
-*  Currently learning Backend Development, System Design & AI-Assisted Development
-*  Interested in AI-powered workflows, productivity tools, and digital solutions
-*  Goal: Become a skilled Full-Stack Developer and build impactful digital products
+* MBA Student in Accounting & Information Systems at Islamic University, Kushtia
+* Passionate about Frontend Development and Modern Web Technologies
+* Skilled in React.js, Next.js, JavaScript, TypeScript, Tailwind CSS, Node.js, Express.js, and MongoDB
+* Interested in AI-powered workflows, productivity tools, and digital solutions
+* Goal: Become a skilled Full-Stack Developer and build impactful digital products
+
+---
+
+## 🔭 Current Activities
+
+* I am exploring Next.js and TypeScript
+* I am improving my backend development and authentication skills
+* I am working on full-stack MERN projects
+* I am building real-world web applications with clean UI and responsive design
+* I am learning system design and AI-assisted development workflows
+
+---
 
 ## 🎯 Current Goals
 
-*  Become a Job-Ready Full Stack Developer
-*  Master React.js & Next.js Ecosystem
-*  Learn Backend Architecture & System Design
-*  Build AI-Powered Applications
-*  Contribute to Meaningful Open Source Projects
+* Become a job-ready Full Stack Developer
+* Master the React.js and Next.js ecosystem
+* Learn backend architecture and system design
+* Build AI-powered applications
+* Contribute to meaningful open-source projects
+
+---
 
 ## 🚀 Featured Projects
 
 | Project | Description | Live | Tech |
 |----------|-------------|------|------|
-|  resellHub | ReSell Hub is a modern second-hand marketplace platform where users can buy and sell pre-owned products safely and efficiently. | [Live](https://resell-hub-rho.vercel.app) | Next.js, MongoDB, Express.js, Stipe, HeroUI, Better Auth |
-|  SportNest | Full-stack sports facility booking platform with authentication, booking management, and owner dashboards. | [Live](https://sports-nest-gules.vercel.app) | Next.js, MongoDB, Express.js |
-|  Online Book Borrowing Platform | Book discovery and borrowing platform with Better Auth and personalized dashboard. | [Live](https://online-book-borrowing-platform-mocha.vercel.app/) | Next.js, MongoDB, Better Auth |
-|  cineTrack | A modern and responsive Movie Watchlist & Review application. | [Live]( https://cine-track-nine.vercel.app) | React.js, Vite, and Tailwind CSS |
-|  KeenKeeper | Friendship management application with smart dashboards and interactive timelines. | [Live](https://kin-keeper-seven-self.vercel.app/) | Next.js, Tailwind CSS |
-|  DigiTools | Digital tools marketplace with premium tools, pricing plans, and free trials. | [Live](https://digitools-react.netlify.app/) | React.js, Tailwind CSS |
+| ReSell Hub | A modern second-hand marketplace platform where users can buy and sell pre-owned products safely and efficiently. | [Live](https://resell-hub-rho.vercel.app) | Next.js, MongoDB, Express.js, Stripe, HeroUI, Better Auth |
+| SportNest | Full-stack sports facility booking platform with authentication, booking management, and owner dashboards. | [Live](https://sports-nest-gules.vercel.app) | Next.js, MongoDB, Express.js, Better Auth, Tailwind CSS |
+| Online Book Borrowing Platform | Book discovery and borrowing platform with Better Auth and personalized dashboard. | [Live](https://online-book-borrowing-platform-mocha.vercel.app/) | Next.js, MongoDB, Better Auth, Tailwind CSS |
+| CineTrack | A modern and responsive movie watchlist and review application. | [Live](https://cine-track-nine.vercel.app) | React.js, Vite, Tailwind CSS |
+| KeenKeeper | Friendship management application with smart dashboards and interactive timelines. | [Live](https://kin-keeper-seven-self.vercel.app/) | Next.js, Tailwind CSS |
+| DigiTools | Digital tools marketplace with premium tools, pricing plans, and free trials. | [Live](https://digitools-react.netlify.app/) | React.js, Tailwind CSS |
+
+---
 
 ## 🏢 Leadership & Community Experience
 
-*  Design & IT Secretary – Islamic University Accounting Club
-*  Assistant Communication Affairs Secretary – CAP
-*  Content Writing Intern – Requin BD
+* Design & IT Secretary – Islamic University Accounting Club
+* Finance Secretary – Islamic University Accounting Club
+* Founding Vice President – Socchar Students' Network-SSN IU Chapter
+* Director of Research and Development – Islamic University Career Club
+* Assistant Communication Affairs Secretary – CAP FOUNDATION
+* Content Writing Intern – Requin BD
+
+---
 
 ## 🌐 Connect with Me
 
@@ -60,22 +87,32 @@
   </a>
 </p>
 
-
 ---
 
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode&perline=12" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,git,github,vscode,vercel,netlify&perline=15" />
 </p>
 
-
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=raselahmed2023&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=raselahmed2023&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raselahmed2023&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
 
- Always interested in learning new technologies, building impactful products, and collaborating on meaningful projects.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raselahmed2023&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  Always interested in learning new technologies, building impactful products, and collaborating on meaningful projects.
+</p>
