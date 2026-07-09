@@ -98,14 +98,11 @@
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Stats
 
-| Metric | Details |
-|--------|---------|
-| Contributions | 600+ GitHub contributions |
-| Main Languages | JavaScript, TypeScript, HTML, CSS |
-| Current Focus | React.js, Next.js, MERN Stack |
-| Streak | Active GitHub contribution streak |
+<p align="center">
+  <b>600+ Contributions</b> • <b>JavaScript & TypeScript</b> • <b>React.js / Next.js Focused</b>
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=raselahmed2023&theme=dark&hide_border=true" alt="GitHub Streak" width="55%" />
