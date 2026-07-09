@@ -98,21 +98,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raselahmed2023&theme=github_dark" alt="GitHub Contributions" width="90%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raselahmed2023&theme=github_dark" alt="Languages Used" width="45%" />
-</p>
+| Metric | Details |
+|--------|---------|
+| Contributions | 600+ GitHub contributions |
+| Main Languages | JavaScript, TypeScript, HTML, CSS |
+| Current Focus | React.js, Next.js, MERN Stack |
+| Streak | Active GitHub contribution streak |
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=raselahmed2023&theme=dark&hide_border=true" alt="GitHub Streak" width="55%" />
-</p>
----
-
-<p align="center">
-  Always interested in learning new technologies, building impactful products, and collaborating on meaningful projects.
 </p>
