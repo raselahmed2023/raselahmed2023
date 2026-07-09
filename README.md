@@ -7,8 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Rasel+Ahmed" alt="Typing SVG" />
 </p>
 
-<h3 align="center">Junior Frontend Developer | React.js | Next.js | TypeScript | MERN Stack</h3>
-
 ---
 
 ## 🚀 About Me
