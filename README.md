@@ -108,9 +108,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raselahmed2023&theme=github_dark" alt="GitHub Contributions" width="90%" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=raselahmed2023&theme=dark&hide_border=true" alt="GitHub Streak" width="55%" />
 </p>
