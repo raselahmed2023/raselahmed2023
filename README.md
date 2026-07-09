@@ -101,21 +101,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raselahmed2023&theme=github_dark" alt="GitHub Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raselahmed2023&theme=github_dark" alt="GitHub Contributions" width="90%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raselahmed2023&theme=github_dark" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raselahmed2023&theme=github_dark" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raselahmed2023&theme=github_dark" alt="Languages Used" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raselahmed2023&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raselahmed2023&theme=github_dark&utcOffset=6" alt="Productive Time" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=raselahmed2023&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=raselahmed2023&theme=dark&hide_border=true" alt="GitHub Streak" width="55%" />
 </p>
 ---
 
