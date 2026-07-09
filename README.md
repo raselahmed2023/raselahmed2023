@@ -101,22 +101,14 @@
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-36BCF7?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Learning-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Practicing-DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Main%20Stack-React.js%20%7C%20Next.js%20%7C%20MERN-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Main%20Languages-JavaScript%20%7C%20TypeScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React.js-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-Full--Stack-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-Learning-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-Practicing-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raselahmed2023&theme=github_dark" alt="GitHub Contributions" width="90%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raselahmed2023&theme=github_dark" alt="Languages Used" width="45%" />
 </p>
 
 <p align="center">
