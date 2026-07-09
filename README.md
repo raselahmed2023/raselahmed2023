@@ -1,6 +1,6 @@
 
 <p align="center">
-<img width="100%" alt="abc3085d-7331-47fc-9c2b-76d406217ea2" src="https://github.com/user-attachments/assets/aafddda9-a660-44f1-b472-b2e6d3bdb663" />
+  <img src="https://github.com/user-attachments/assets/aafddda9-a660-44f1-b472-b2e6d3bdb663" alt="Rasel Ahmed GitHub Banner" width="100%" />
 </p>
 
 <p align="center">
@@ -101,15 +101,21 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raselahmed2023&show_icons=true&theme=tokyonight&hide_border=true" alt="Rasel Ahmed GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raselahmed2023&theme=github_dark" alt="GitHub Profile Summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raselahmed2023&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raselahmed2023&theme=github_dark" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raselahmed2023&theme=github_dark" alt="Most Commit Language" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=raselahmed2023&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raselahmed2023&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raselahmed2023&theme=github_dark&utcOffset=6" alt="Productive Time" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=raselahmed2023&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 ---
 
