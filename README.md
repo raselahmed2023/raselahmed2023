@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="./assets/banner.png" alt="Rasel Ahmed GitHub Banner" width="100%" />
+<img width="100%" alt="abc3085d-7331-47fc-9c2b-76d406217ea2" src="https://github.com/user-attachments/assets/aafddda9-a660-44f1-b472-b2e6d3bdb663" />
 </p>
 
 <p align="center">
@@ -100,17 +101,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=raselahmed2023&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=raselahmed2023&show_icons=true&theme=tokyonight&hide_border=true" alt="Rasel Ahmed GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raselahmed2023&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raselahmed2023&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raselahmed2023&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=raselahmed2023&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
 ---
 
 <p align="center">
