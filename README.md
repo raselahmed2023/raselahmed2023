@@ -98,10 +98,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <p align="center">
-  <b>600+ Contributions</b> • <b>JavaScript & TypeScript</b> • <b>React.js / Next.js Focused</b>
+  <img src="https://img.shields.io/badge/Contributions-600%2B-36BCF7?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Main%20Language-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Focus-React%20%26%20Next.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
 <p align="center">
