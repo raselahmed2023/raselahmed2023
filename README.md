@@ -101,12 +101,5 @@
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React.js-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-Full--Stack-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-Learning-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/DSA-Practicing-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=raselahmed2023&theme=dark&hide_border=true" alt="GitHub Streak" width="55%" />
 </p>
