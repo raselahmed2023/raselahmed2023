@@ -47,8 +47,8 @@
 | **TripMind** | An AI-powered travel planning platform that generates personalized itineraries based on destination, budget, interests, and travel preferences. | [Live](https://tripmind-client.vercel.app/) | Next.js, TypeScript, MongoDB, Express.js, Gemini AI, Groq AI, TanStack Query |
 | **Rentora** | A full-stack property rental and management platform for discovering, listing, filtering, and managing rental properties. | [Live](https://rentora-woad.vercel.app/) | Next.js, TypeScript, Express.js, MongoDB, Better Auth, Tailwind CSS |
 | **LifeLink** | A responsive blood donor discovery platform that helps users find compatible donors and access important donor information. | [Live](https://life-link-cyan-two.vercel.app/) | Next.js, React, TypeScript, Tailwind CSS |
-| **ReSell Hub** | A full-stack second-hand marketplace with buyer, seller, and admin dashboards, product management, wishlist, orders, and Stripe payments. | [Live](https://resell-hub-rho.vercel.app/) | Next.js, TypeScript, MongoDB, Better Auth, Stripe, Tailwind CSS |
-| **SportNest** | A full-stack sports facility booking platform with facility discovery, reservation management, protected routes, and role-based dashboards. | [Live](https://sports-nest-gules.vercel.app/) | Next.js, TypeScript, Express.js, MongoDB, Better Auth, Tailwind CSS |
+| **ReSell Hub** | A full-stack second-hand marketplace with buyer, seller, and admin dashboards, product management, wishlist, orders, and Stripe payments. | [Live](https://resell-hub-rho.vercel.app/) | Next.js, MongoDB, Better Auth, Stripe, Tailwind CSS |
+| **SportNest** | A full-stack sports facility booking platform with facility discovery, reservation management, protected routes, and role-based dashboards. | [Live](https://sports-nest-gules.vercel.app/) | Next.js, Express.js, MongoDB, Better Auth, Tailwind CSS |
 
 ---
 
