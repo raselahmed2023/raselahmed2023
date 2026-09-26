@@ -43,12 +43,12 @@
 
 | Project | Description | Live | Tech |
 |----------|-------------|------|------|
-| ReSell Hub | A modern second-hand marketplace platform where users can buy and sell pre-owned products safely and efficiently. | [Live](https://resell-hub-rho.vercel.app) | Next.js, MongoDB, Express.js, Stripe, HeroUI, Better Auth |
-| SportNest | Full-stack sports facility booking platform with authentication, booking management, and owner dashboards. | [Live](https://sports-nest-gules.vercel.app) | Next.js, MongoDB, Express.js, Better Auth, Tailwind CSS |
-| Online Book Borrowing Platform | Book discovery and borrowing platform with Better Auth and personalized dashboard. | [Live](https://online-book-borrowing-platform-mocha.vercel.app/) | Next.js, MongoDB, Better Auth, Tailwind CSS |
-| CineTrack | A modern and responsive movie watchlist and review application. | [Live](https://cine-track-nine.vercel.app) | React.js, Vite, Tailwind CSS |
-| KeenKeeper | Friendship management application with smart dashboards and interactive timelines. | [Live](https://kin-keeper-seven-self.vercel.app/) | Next.js, Tailwind CSS |
-| DigiTools | Digital tools marketplace with premium tools, pricing plans, and free trials. | [Live](https://digitools-react.netlify.app/) | React.js, Tailwind CSS |
+| **AgriNova** | A full-stack smart agriculture platform with AI-powered farming tools, farm management, marketplace, expert consultation, investment, community, blogs, weather, and role-based dashboards. | [Live](https://agrinova-client-theta.vercel.app/) | Next.js, TypeScript, Node.js, Express.js, MongoDB, Better Auth, Gemini AI |
+| **TripMind** | An AI-powered travel planning platform that generates personalized itineraries based on destination, budget, interests, and travel preferences. | [Live](https://tripmind-client.vercel.app/) | Next.js, TypeScript, MongoDB, Express.js, Gemini AI, Groq AI, TanStack Query |
+| **Rentora** | A full-stack property rental and management platform for discovering, listing, filtering, and managing rental properties. | [Live](https://rentora-woad.vercel.app/) | Next.js, TypeScript, Express.js, MongoDB, Better Auth, Tailwind CSS |
+| **LifeLink** | A responsive blood donor discovery platform that helps users find compatible donors and access important donor information. | [Live](https://life-link-cyan-two.vercel.app/) | Next.js, React, TypeScript, Tailwind CSS |
+| **ReSell Hub** | A full-stack second-hand marketplace with buyer, seller, and admin dashboards, product management, wishlist, orders, and Stripe payments. | [Live](https://resell-hub-rho.vercel.app/) | Next.js, TypeScript, MongoDB, Better Auth, Stripe, Tailwind CSS |
+| **SportNest** | A full-stack sports facility booking platform with facility discovery, reservation management, protected routes, and role-based dashboards. | [Live](https://sports-nest-gules.vercel.app/) | Next.js, TypeScript, Express.js, MongoDB, Better Auth, Tailwind CSS |
 
 ---
 
