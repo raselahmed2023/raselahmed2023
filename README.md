@@ -1,6 +1,7 @@
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/aafddda9-a660-44f1-b472-b2e6d3bdb663" alt="Rasel Ahmed GitHub Banner" width="100%" />
+  <img alt="Rasel Ahmed GitHub Banner" width="100%"" src="https://github.com/user-attachments/assets/8eee0065-0efa-47fd-bbab-39246fe513b1" />
+
 </p>
 
 <p align="center">
