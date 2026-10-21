@@ -60,7 +60,7 @@ I'm currently pursuing an **MBA in Accounting & Information Systems** at **Islam
 
 ## 🏆 Experience & Recognition
 
-- **Team Leader & Full Stack Developer — Programming Hero Engame-13** (2026)  
+- **Team Leader & Full Stack Developer — Programming Hero Engame-(B-13)** (2026)  
   Led the **AgriNova** team through development and delivery. Achieved **1st place among 28 participating teams** in the Team Problem Lab.
 
 - **Frontend AI Engineering Intern — FlyRank AI** (Jul–Aug 2026)  
@@ -105,6 +105,5 @@ I'm currently pursuing an **MBA in Accounting & Information Systems** at **Islam
 ## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raselahmed2023&show_icons=true&theme=dark&hide_border=true" alt="Rasel Ahmed GitHub Stats" height="170" />
   <img src="https://streak-stats.demolab.com?user=raselahmed2023&theme=dark&hide_border=true" alt="Rasel Ahmed GitHub Streak" height="170" />
 </p>
